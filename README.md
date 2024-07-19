@@ -1,2 +1,2 @@
-# sales-dashboard
-sample superstore Dashboard
+# Sales Dashboard
+Sales Dashboard created in tableau of sample superstore dataset.
