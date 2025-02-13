@@ -1,2 +1,2 @@
 # Sales Dashboard
-Sales Dashboard created in tableau of sample superstore dataset.
+This is the Sales Dashboard created in tableu for better visuliaztion of your company's growth.s
